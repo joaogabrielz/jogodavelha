@@ -1,8 +1,9 @@
-# Jogo da Velha / Tic-Tac-Toe
+# Jogo da Velha / Tic-Tac-Toe <img alt='print projeto' align="center" height="60" width="60" src="https://media2.giphy.com/media/ChzovjKPuEiYe8ePih/200.gif">
 [//]: <> (../master/assets/img/print.png) 
-## Recriando o famoso jogo da velha👈 
+# Projeto recriado o famoso jogo da velha👈 
+    
 
-<img alt='print projeto' align="center" height="280" width="300" src="../master/img/print.png">
+<img alt='print projeto' align="center" height="300" width="280" src="../master/img/printgame.png">
 
 ## Click para ver: <a href='https://joaogabrielz.github.io/jogodavelha/'>Deploy</a> 👈 
 
